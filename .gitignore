@@ -1,0 +1,15 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# Export presets (often contain sensitive info)
+export_presets.cfg
+
+# System files
+.DS_Store
+Thumbs.db
+*~
+
+# Temporary files
+*.tmp
+*.bak
